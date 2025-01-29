@@ -1,1 +1,2 @@
-Hi this is my address file
+Hi this is my address file.
+Skipping add command directly to Git Directory.
